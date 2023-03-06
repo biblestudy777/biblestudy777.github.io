@@ -33729,7 +33729,6 @@ $21$background$color$decoration$decorationColor$decorationStyle$decorationThickn
 $12$ellipsis$fontFamily$fontSize$fontStyle$fontWeight$height$locale$maxLines$strutStyle$textAlign$textDirection$textHeightBehavior(a,b,c,d,e,f,g,h,i,j,k,l){return this.C(this,A.G("$12$ellipsis$fontFamily$fontSize$fontStyle$fontWeight$height$locale$maxLines$strutStyle$textAlign$textDirection$textHeightBehavior","$12$ellipsis$fontFamily$fontSize$fontStyle$fontWeight$height$locale$maxLines$strutStyle$textAlign$textDirection$textHeightBehavior",0,[a,b,c,d,e,f,g,h,i,j,k,l],["ellipsis","fontFamily","fontSize","fontStyle","fontWeight","height","locale","maxLines","strutStyle","textAlign","textDirection","textHeightBehavior"],0))},
 $2$primary$secondary(a,b){return this.C(this,A.G("$2$primary$secondary","$2$primary$secondary",0,[a,b],["primary","secondary"],0))},
 $8$color$fill$grade$opacity$opticalSize$shadows$size$weight(a,b,c,d,e,f,g,h){return this.C(this,A.G("$8$color$fill$grade$opacity$opticalSize$shadows$size$weight","$8$color$fill$grade$opacity$opticalSize$shadows$size$weight",0,[a,b,c,d,e,f,g,h],["color","fill","grade","opacity","opticalSize","shadows","size","weight"],0))},
-$2$aspect(a,b){return this.C(this,A.G("$2$aspect","$2$aspect",0,[a,b],["aspect"],0))},
 $8$removeBottomInset$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding(a,b,c,d,e,f,g,h){return this.C(this,A.G("$8$removeBottomInset$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding","$8$removeBottomInset$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding",0,[a,b,c,d,e,f,g,h],["removeBottomInset","removeBottomPadding","removeLeftPadding","removeRightPadding","removeTopPadding"],0))},
 $7$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding(a,b,c,d,e,f,g){return this.C(this,A.G("$7$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding","$7$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding",0,[a,b,c,d,e,f,g],["removeBottomPadding","removeLeftPadding","removeRightPadding","removeTopPadding"],0))},
 $8$maintainBottomViewPadding$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding(a,b,c,d,e,f,g,h){return this.C(this,A.G("$8$maintainBottomViewPadding$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding","$8$maintainBottomViewPadding$removeBottomPadding$removeLeftPadding$removeRightPadding$removeTopPadding",0,[a,b,c,d,e,f,g,h],["maintainBottomViewPadding","removeBottomPadding","removeLeftPadding","removeRightPadding","removeTopPadding"],0))},
@@ -33781,6 +33780,7 @@ $1$2(a,b,c){return this.C(this,A.G("$1$2","$1$2",0,[a,b,c],[],1))},
 $2$0(a,b){return this.C(this,A.G("$2$0","$2$0",0,[a,b],[],2))},
 $3$code$details$message(a,b,c){return this.C(this,A.G("$3$code$details$message","$3$code$details$message",0,[a,b,c],["code","details","message"],0))},
 $2$code$message(a,b){return this.C(this,A.G("$2$code$message","$2$code$message",0,[a,b],["code","message"],0))},
+$2$aspect(a,b){return this.C(this,A.G("$2$aspect","$2$aspect",0,[a,b],["aspect"],0))},
 $1$immediately(a){return this.C(this,A.G("$1$immediately","$1$immediately",0,[a],["immediately"],0))},
 $1$2$arguments(a,b,c){return this.C(this,A.G("$1$2$arguments","$1$2$arguments",0,[a,b,c],["arguments"],1))},
 $4$displayFeatures$padding$viewInsets$viewPadding(a,b,c,d){return this.C(this,A.G("$4$displayFeatures$padding$viewInsets$viewPadding","$4$displayFeatures$padding$viewInsets$viewPadding",0,[a,b,c,d],["displayFeatures","padding","viewInsets","viewPadding"],0))},
@@ -35594,7 +35594,8 @@ p=t.E
 q=A.nC(A.b([s,B.y2,A.adv(n,n,B.bo,n,n,!0,n,A.pt(A.b([r,A.pt(n,q,B.YY,"https://linktr.ee/forerunner777")],t.VO),n,n,n),B.b7,n,n,1,B.az)],p),B.bs,B.bi,B.bD)
 p=A.b([new A.d9(B.BI,A.ad1(n,B.Ck,n,new A.a89(a),"View Schedule"),n)],p)
 s=o.d
-r=A.agJ($.jC(),B.Ci,!1,new A.a8a(o),"Refresh")
+r=a.S(t.l).f
+r=r.a.a>500?A.agJ($.jC(),B.Ci,!1,new A.a8a(o),"Refresh"):n
 return new A.vv(new A.qV(q,p,!0,new A.L1(n,n,1/0,56),n),new A.nZ(s,new A.a8b(o),n,t.Sx),r,n)}}
 A.a81.prototype={
 $0(){var s,r
