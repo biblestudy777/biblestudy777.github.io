@@ -35616,7 +35616,7 @@ o=o?B.yL:s
 return new A.d9(B.BK,new A.uY(new A.D_(new A.a2S(q,20,20,1),new A.a2N(new A.a84(this,a),p,!0,!0,!0,s),s,B.aW,!1,s,s,o,!1,s,p,B.aZ,B.WK,s,B.ad,s),new A.a85(this),r,B.fJ,s),s)},
 L(a){var s,r,q,p,o,n=this,m=null
 n.a.toString
-s=A.eL("Instagram: theforerunner777",m,m,m,m)
+s=A.eL("IG: theforerunner777",m,m,m,m)
 r=A.pt(m,m,B.dy,"")
 q=A.aiu(m,m)
 q.ai=new A.a8b()
